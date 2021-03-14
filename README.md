@@ -1,3 +1,5 @@
+Im usinig OpenCV library in this project and the accuracy is about 70%.
+
 1.	Create new java project file.
 2.	Import the source code file to any IDE that compatible to JAVA file.
 3.	Import all Ondrej dataset in the java project file.
