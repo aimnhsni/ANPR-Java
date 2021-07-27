@@ -1,5 +1,6 @@
-AUTOMATIC NUMBER PLATE RECOGNITION
-Im using OpenCV library in this project and the accuracy is about 70%.
+AUTOMATIC NUMBER PLATE RECOGNITION (ANPR)
+
+//Im using OpenCV library in this project and the accuracy is about 70%.
 
 1.	Create new java project file.
 2.	Import the source code file to any IDE that compatible to JAVA file.
