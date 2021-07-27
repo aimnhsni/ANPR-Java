@@ -1,3 +1,4 @@
+AUTOMATIC NUMBER PLATE RECOGNITION
 Im using OpenCV library in this project and the accuracy is about 70%.
 
 1.	Create new java project file.
